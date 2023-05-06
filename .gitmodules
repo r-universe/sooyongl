@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flps"]
+	path = flps
+	url = https://github.com/sooyongl/flps
+	shallow = true
+	registered = true
 [submodule "GRShiny"]
 	path = GRShiny
 	url = https://github.com/sooyongl/grshiny
