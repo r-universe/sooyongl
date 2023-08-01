@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "flps"]
-	path = flps
-	url = https://github.com/sooyongl/flps
 [submodule "GRShiny"]
 	path = GRShiny
 	url = https://github.com/sooyongl/grshiny
+[submodule "flps"]
+	path = flps
+	url = https://github.com/sooyongl/flps
